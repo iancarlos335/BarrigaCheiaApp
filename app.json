@@ -1,4 +1,7 @@
 {
   "name": "BarrigaCheiaApp",
-  "displayName": "BarrigaCheiaApp"
+  "displayName": "BarrigaCheiaApp",
+  "plugins": [
+    "expo-build-properties"
+  ]
 }
